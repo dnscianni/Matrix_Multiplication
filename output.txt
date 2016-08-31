@@ -1,0 +1,50 @@
+For n=2: 
+	Classic Matrix Multiplication time: 1098 nanoseconds.
+	Divide and Conquer Matrix Multiplication time: 8697 nanoseconds.
+	Strassen's Matrix Multiplication time: 1026 nanoseconds.
+
+For n=4: 
+	Classic Matrix Multiplication time: 1705 nanoseconds.
+	Divide and Conquer Matrix Multiplication time: 56788 nanoseconds.
+	Strassen's Matrix Multiplication time: 15874 nanoseconds.
+
+For n=8: 
+	Classic Matrix Multiplication time: 2938 nanoseconds.
+	Divide and Conquer Matrix Multiplication time: 231723 nanoseconds.
+	Strassen's Matrix Multiplication time: 96068 nanoseconds.
+
+For n=16: 
+	Classic Matrix Multiplication time: 19545 nanoseconds.
+	Divide and Conquer Matrix Multiplication time: 1832701 nanoseconds.
+	Strassen's Matrix Multiplication time: 440698 nanoseconds.
+
+For n=32: 
+	Classic Matrix Multiplication time: 145941 nanoseconds.
+	Divide and Conquer Matrix Multiplication time: 14132589 nanoseconds.
+	Strassen's Matrix Multiplication time: 3037810 nanoseconds.
+
+For n=64: 
+	Classic Matrix Multiplication time: 1094085 nanoseconds.
+	Divide and Conquer Matrix Multiplication time: 111679288 nanoseconds.
+	Strassen's Matrix Multiplication time: 21094574 nanoseconds.
+
+For n=128: 
+	Classic Matrix Multiplication time: 8722335 nanoseconds.
+	Divide and Conquer Matrix Multiplication time: 895276807 nanoseconds.
+	Strassen's Matrix Multiplication time: 148876303 nanoseconds.
+
+For n=256: 
+	Classic Matrix Multiplication time: 71695217 nanoseconds.
+	Divide and Conquer Matrix Multiplication time: 7130739374 nanoseconds.
+	Strassen's Matrix Multiplication time: 1039412786 nanoseconds.
+
+For n=512: 
+	Classic Matrix Multiplication time: 654156033 nanoseconds.
+	Divide and Conquer Matrix Multiplication time: 58441950798 nanoseconds.
+	Strassen's Matrix Multiplication time: 7441942046 nanoseconds.
+
+For n=1024: 
+	Classic Matrix Multiplication time: 8284847301 nanoseconds.
+	Divide and Conquer Matrix Multiplication time: 618007698955 nanoseconds.
+	Strassen's Matrix Multiplication time: 50677832882 nanoseconds.
+
